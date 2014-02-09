@@ -1,0 +1,36 @@
+{
+    "name": "jquery.ajax.plus",
+    "title": "jQuery.ajax +",
+    "description": "jQuery plugin for adding PUT, PATCH, and DELETE HTTP methods to ajax requests.",
+    "keywords": [
+        "ajax",
+        "put",
+        "patch",
+        "delete"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Ronald (MoreRon) Maravilla",
+        "url": "https://github.com/more-ron/jquery.ajax.plus"
+    },
+    "maintainers": [
+        {
+            "name": "Ronald (MoreRon) Maravilla",
+            "email": "more.ron.too@gmail.com",
+            "url": "http://about.me/ronald.maravilla"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/more-ron/jquery.ajax.plus/blob/1.0.0/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/more-ron/jquery.ajax.plus/issues",
+    "homepage": "https://github.com/more-ron/jquery.ajax.plus",
+    "docs": "https://github.com/more-ron/jquery.ajax.plus",
+    "download": "https://github.com/more-ron/jquery.ajax.plus/releases/tag/1.0.0",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
